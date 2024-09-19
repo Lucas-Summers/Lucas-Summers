@@ -7,7 +7,7 @@
 </a>
 
 <a href="https://gist.github.com/Lucas-Summers/ec63af9e46f06a839c7d584b0bc1123e">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/gist?id=ec63af9e46f06a839c7d584b0bc1123e&theme=transparent&description_lines_count=8" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/gist?id=ec63af9e46f06a839c7d584b0bc1123e&theme=transparent" />
 </a>
 
 ---
