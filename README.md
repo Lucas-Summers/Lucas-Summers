@@ -1,19 +1,34 @@
 # 🚣‍♀️ Lucas Summers
 
-**`open-sourced`**
+**`Open-Sourced`**
 
-[![About Me](https://github-readme-stats.vercel.app/api/gist?id=a39f45b2563e3c67eaefe7a904fb3b5f&theme=transparent)](https://gist.github.com/Lucas-Summers/a39f45b2563e3c67eaefe7a904fb3b5f)
+<a href="https://gist.github.com/Lucas-Summers/a39f45b2563e3c67eaefe7a904fb3b5f">
+  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/gist?id=a39f45b2563e3c67eaefe7a904fb3b5f&theme=transparent" />
+</a>
 
-[![Quote of the Day](https://github-readme-stats.vercel.app/api/gist?id=ec63af9e46f06a839c7d584b0bc1123e&theme=transparent)](https://gist.github.com/Lucas-Summers/ec63af9e46f06a839c7d584b0bc1123e)
-
+<a href="https://gist.github.com/Lucas-Summers/ec63af9e46f06a839c7d584b0bc1123e">
+  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/gist?id=ec63af9e46f06a839c7d584b0bc1123e&theme=transparent" />
+</a>
 
 ---
 
 ### 🛠️ Projects
 
-[![GTObot](https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Summers&repo=GTObot&theme=transparent&description_lines_count=3)](https://github.com/Lucas-Summers/GTObot)
-[![mytar](https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Summers&repo=mytar&theme=transparent&description_lines_count=3)](https://github.com/Lucas-Summers/mytar)
-[![nnn](https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Summers&repo=nnn&theme=transparent&description_lines_count=3)](https://github.com/Lucas-Summers/nnn)
+<a href="https://github.com/Lucas-Summers/GTObot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Summers&repo=GTObot&theme=transparent&description_lines_count=3" />
+</a>
+
+<a href="https://github.com/Lucas-Summers/mytar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Summers&repo=mytar&theme=transparent&description_lines_count=3" />
+</a>
+
+<a href="https://github.com/Lucas-Summers/nnn">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Summers&repo=nnn&theme=transparent&description_lines_count=3&show_owner=true" />
+</a>
+
+<a href="https://github.com/Lucas-Summers/nnn">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Summers&repo=nnn&theme=transparent&description_lines_count=3&show_owner=true" />
+</a>
 
 ---
 
