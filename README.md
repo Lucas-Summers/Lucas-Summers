@@ -2,18 +2,18 @@
 
 **`open-sourced`**
 
-[![About Me](https://github-readme-stats.vercel.app/api/gist?id=a39f45b2563e3c67eaefe7a904fb3b5f)](https://gist.github.com/Lucas-Summers/a39f45b2563e3c67eaefe7a904fb3b5f)
+[![About Me](https://github-readme-stats.vercel.app/api/gist?id=a39f45b2563e3c67eaefe7a904fb3b5f&theme=transparent)](https://gist.github.com/Lucas-Summers/a39f45b2563e3c67eaefe7a904fb3b5f)
 
-[![Quote of the Day](https://github-readme-stats.vercel.app/api/gist?id=ec63af9e46f06a839c7d584b0bc1123e)](https://gist.github.com/Lucas-Summers/ec63af9e46f06a839c7d584b0bc1123e)
+[![Quote of the Day](https://github-readme-stats.vercel.app/api/gist?id=ec63af9e46f06a839c7d584b0bc1123e&theme=transparent)](https://gist.github.com/Lucas-Summers/ec63af9e46f06a839c7d584b0bc1123e)
 
 
 ---
 
 ### 🛠️ Projects
 
-[![GTObot](https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Summers&repo=GTObot)](https://github.com/Lucas-Summers/GTObot)
-[![mytar](https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Summers&repo=mytar)](https://github.com/Lucas-Summers/mytar)
-[![nnn](https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Summers&repo=nnn)](https://github.com/Lucas-Summers/nnn)
+[![GTObot](https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Summers&repo=GTObot&theme=transparent&description_lines_count=3)](https://github.com/Lucas-Summers/GTObot)
+[![mytar](https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Summers&repo=mytar&theme=transparent&description_lines_count=3)](https://github.com/Lucas-Summers/mytar)
+[![nnn](https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Summers&repo=nnn&theme=transparent&description_lines_count=3)](https://github.com/Lucas-Summers/nnn)
 
 ---
 
@@ -35,5 +35,5 @@
 
 ### 📈 Stats
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-Summers&show_icons=true&rank_icon=github)](https://github.com/Lucas-Summers)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Summers&layout=donut)](https://github.com/Lucas-Summers)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-Summers&show_icons=true&rank_icon=github&theme=transparent&show=prs_merged)](https://github.com/Lucas-Summers)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Summers&layout=donut&theme=transparent)](https://github.com/Lucas-Summers)
