@@ -35,5 +35,10 @@
 
 ### 📈 Stats
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-Summers&show_icons=true&rank_icon=github&theme=transparent&show=prs_merged)](https://github.com/Lucas-Summers)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Summers&layout=donut&theme=transparent)](https://github.com/Lucas-Summers)
+<a href="https://github.com/Lucas-Summers">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Lucas-Summers&show_icons=true&rank_icon=github&theme=transparent" />
+</a>
+
+<a href="https://github.com/Lucas-Summers">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Summers&layout=donut&theme=transparent" />
+</a>
