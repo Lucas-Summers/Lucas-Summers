@@ -1,16 +1,19 @@
 # 🚣‍♀️ Lucas Summers
 
-**'Open Sourced**
+**`open-sourced`**
 
-![About Me](https://github-readme-stats.vercel.app/api/gist?id=a39f45b2563e3c67eaefe7a904fb3b5f&theme=shadow_green)
+[![About Me](https://github-readme-stats.vercel.app/api/gist?id=a39f45b2563e3c67eaefe7a904fb3b5f)](https://gist.github.com/Lucas-Summers/a39f45b2563e3c67eaefe7a904fb3b5f)
+
+[![Quote of the Day](https://github-readme-stats.vercel.app/api/gist?id=ec63af9e46f06a839c7d584b0bc1123e)](https://gist.github.com/Lucas-Summers/ec63af9e46f06a839c7d584b0bc1123e)
+
 
 ---
 
 ### 🛠️ Projects
 
-![GTObot](https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Summers&repo=GTObot&theme=shadow_green)
-![mytar](https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Summers&repo=mytar&theme=shadow_green)
-![nnn](https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Summers&repo=nnn&theme=shadow_green)
+[![GTObot](https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Summers&repo=GTObot)](https://github.com/Lucas-Summers/GTObot)
+[![mytar](https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Summers&repo=mytar)](https://github.com/Lucas-Summers/mytar)
+[![nnn](https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Summers&repo=nnn)](https://github.com/Lucas-Summers/nnn)
 
 ---
 
@@ -32,5 +35,5 @@
 
 ### 📈 Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-Summers&show_icons=true&theme=shadow_green&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Summers&theme=shadow_green&layout=donut)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-Summers&show_icons=true&rank_icon=github)](https://github.com/Lucas-Summers)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Summers&layout=donut)](https://github.com/Lucas-Summers)
