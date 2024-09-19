@@ -3,11 +3,11 @@
 **`Open-Sourced`**
 
 <a href="https://gist.github.com/Lucas-Summers/a39f45b2563e3c67eaefe7a904fb3b5f">
-  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/gist?id=a39f45b2563e3c67eaefe7a904fb3b5f&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/gist?id=a39f45b2563e3c67eaefe7a904fb3b5f&theme=transparent" />
 </a>
 
 <a href="https://gist.github.com/Lucas-Summers/ec63af9e46f06a839c7d584b0bc1123e">
-  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/gist?id=ec63af9e46f06a839c7d584b0bc1123e&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/gist?id=ec63af9e46f06a839c7d584b0bc1123e&theme=transparent" />
 </a>
 
 ---
