@@ -11,6 +11,17 @@
 #
 
 **`Open-Sourced`**
+<p align="center">
+<a href="https://github.com/Lucas-Summers" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@Lucas-Summers-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+
+<a href="https://www.linkedin.com/in/lucas-summers-b1002432b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
+
+<a href="mailto:lucas.summers.dev@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-lucas.summers.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas.summers.dev@gmail.com"></a>
+
+<a href="https://github.com/Lucas-Summers" target="_blank"><img alt="Profile Visits" src="https://badges.pufler.dev/visits/Lucas-Summers/Lucas-Summers?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
+
+<a href="https://github.com/Lucas-Summers" target="_blank"><img alt="Last Updated" src="https://img.shields.io/github/last-commit/Lucas-Summers/Lucas-Summers?label=profile%20updated&style=flat-square"></a>
+</p>
 
 <a href="https://gist.github.com/Lucas-Summers/a39f45b2563e3c67eaefe7a904fb3b5f">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/gist?id=a39f45b2563e3c67eaefe7a904fb3b5f&theme=transparent" />
