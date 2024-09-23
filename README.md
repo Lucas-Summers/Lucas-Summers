@@ -32,6 +32,7 @@
 
 <a href="https://opensource.com" target="_blank"><img alt="Open Source Love" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
 <br />
+<br />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Emacs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/emacs/emacs-original.svg" />
