@@ -23,7 +23,8 @@
 
 <a href="https://gist.github.com/Lucas-Summers/ec63af9e46f06a839c7d584b0bc1123e">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/gist?id=ec63af9e46f06a839c7d584b0bc1123e&theme=transparent" />
-</a>-->
+</a>
+-->
 
 ---
 
@@ -61,7 +62,7 @@
 <a href="https://github.com/Lucas-Summers/mytar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Summers&repo=mytar&theme=transparent&description_lines_count=3" />
 </a>
-
+<!--
 <a href="https://github.com/Lucas-Summers/nnn">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Summers&repo=nnn&theme=transparent&description_lines_count=3&show_owner=true" />
 </a>
@@ -69,6 +70,7 @@
 <a href="https://github.com/Lucas-Summers/nnn">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Summers&repo=nnn&theme=transparent&description_lines_count=3&show_owner=true" />
 </a>
+-->
 
 ---
 
