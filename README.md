@@ -17,8 +17,7 @@
 </p>
 </div>
 
----
-
+<!--
 <div align="center">
 <a href="https://gist.github.com/Lucas-Summers/a39f45b2563e3c67eaefe7a904fb3b5f">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/gist?id=a39f45b2563e3c67eaefe7a904fb3b5f&theme=transparent" />
@@ -28,8 +27,6 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/gist?id=ec63af9e46f06a839c7d584b0bc1123e&theme=transparent" />
 </a>
 </div>
-
----
 
 ### ✍️ Languages and Tools
 
@@ -51,6 +48,7 @@
 <img align="left" alt="LabVIEW" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original.svg" />
 </div>
 <br />
+-->
 
 <!--
 <a href="https://github.com/Lucas-Summers/GTObot">
