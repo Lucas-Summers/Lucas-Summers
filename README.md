@@ -17,7 +17,7 @@
 
 <hr>
 
-<div style="display: flex;" align="center">
+<div style="display: flex; gap: 20px;" align="center">
 <a href="https://github.com/Lucas-Summers">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Lucas-Summers&show_icons=true&rank_icon=github&theme=transparent" />
 </a>
