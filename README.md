@@ -1,1 +1,1 @@
-```$ ssh lucassummers.cloud```
+https://lucassummers.net
