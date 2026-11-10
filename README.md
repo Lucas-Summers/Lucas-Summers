@@ -1,1 +1,1 @@
-```$ curl https://www.lucassummers.cc```
+```$ curl https://lucassummers.net```
